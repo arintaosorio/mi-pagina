@@ -1,0 +1,38 @@
+@media (max-width: 767px) {
+  [class*="col-"] {
+    max-width:100%;
+    flex: none;
+  }
+  /*Inicio cabezera*/
+  .banner h1{
+    display: inline-block;
+
+  }
+  .fa-bars{
+    display: inline-block;
+    margin-left: 1em;
+    font-size: 1em;
+
+
+  }
+  .home{
+    display: none;
+  }
+  /*Fín cabezera*/
+  /*Inicio sección 2*/
+  .whatwedo{
+    margin-top: 5em;
+    margin-bottom: 3em;
+  }
+
+  /*Botón sección 2*/
+  input{
+    width: 7em;
+    height: 3em;
+  }
+  /*botones sección 3*/
+  .row3 input{
+    width: 
+  }
+}
+
